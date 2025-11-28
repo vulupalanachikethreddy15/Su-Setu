@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Su-Setu (粟सेतु)",
+  "description": "Connecting Millets to the World. A bridge between farmers and buyers.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
